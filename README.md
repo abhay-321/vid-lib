@@ -1,1 +1,1 @@
-# vid-lib
+# twilio-video-angular
